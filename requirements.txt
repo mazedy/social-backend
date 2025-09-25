@@ -4,3 +4,4 @@ neomodel
 pydantic
 python-dotenv
 email-validator
+neo4j
